@@ -3,6 +3,7 @@
     "module": "esnext",
     "target": "es2017",
     "lib": [
+      "DOM",
       "ESNext"
     ],
     "strict": true,
